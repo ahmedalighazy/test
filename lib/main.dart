@@ -14,9 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
 
-        ///vvvvvv
-        ///
-        ///
+        ///Nour
         ///
         // This is the theme of your application.
         //
